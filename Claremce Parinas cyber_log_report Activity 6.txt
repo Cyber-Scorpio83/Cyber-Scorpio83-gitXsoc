@@ -1,0 +1,51 @@
+
+===== CYBER THREAT LOG REPORT =====
+Name: CLARENCE PARINAS
+Handle: Cyber-Scorpio83
+Start Time: 2026-11-02 17:45:36.781363
+End Time: 2026-11-02 17:47:22.074545
+Duration (minutes): 1.75
+Score: 9/10
+Rating: ADVANCED
+---- Threat Logs ----
+Threat: RDP Brute Force Attack
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: DNS Amplification DDoS
+CRITICAL: Ransomware activity suspected via
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: HTTP Web Exploit
+CRITICAL: Ransomware activity suspected via
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: Proxy Web Exploit
+CRITICAL: Ransomware activity suspected via
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: POP3 Credential Sniffing
+ALERT: Failed login attempt detected from 192.168.1.13 on port
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: FTP Credential Sniffing
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: SMTP Phishing Campaign
+WARNING: Multiple authentication failures for service
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: HTTPS Web Exploit
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Failed login attempt detected from 192.168.1.88 on port
+-------------------
+Threat: SSH Brute Force Attack
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Failed login attempt detected from 192.168.1.155 on port
+-------------------
+Threat: MySQL Data Theft
+CRITICAL: Ransomware activity suspected via
+ALERT: Possible brute force attempt detected
+-------------------
+===================================
