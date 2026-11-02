@@ -1,0 +1,20 @@
+[2026-11-02 20:03:34] Hostname changed to VM
+[2026-11-02 20:03:47] IP address set to 198.27.69.198
+[2026-11-02 20:04:44] Attack succeeded: Penetration attempt
+[2026-11-02 20:04:53] Attack succeeded: Port scan detected
+[2026-11-02 20:05:06] Attack succeeded: Brute force login attempt
+[2026-11-02 20:05:16] Attack succeeded: Malware upload attempt on FTP
+[2026-11-02 20:05:21] Attack succeeded: DDoS on HTTP service
+[2026-11-02 20:05:39] Firewall active
+[2026-11-02 20:06:12] ssh service stopped
+[2026-11-02 20:06:35] ftp service stopped
+[2026-11-02 20:06:54] http service stopped
+[2026-11-02 20:08:52] Hostname changed to VM
+[2026-11-02 20:09:11] IP address set to 198.27.69.198
+[2026-11-02 20:09:27] Firewall blocked: Penetration attempt
+[2026-11-02 20:10:17] Firewall blocked: Penetration attempt
+[2026-11-02 20:10:53] Firewall blocked: Port scan detected
+[2026-11-02 20:11:10] Firewall blocked: Brute force login attempt
+[2026-11-02 20:11:19] Firewall blocked: Malware upload attempt on FTP
+[2026-11-02 20:11:26] Firewall blocked: DDoS on HTTP service
+[2026-11-02 20:11:54] Quiz mode completed with score: 30
